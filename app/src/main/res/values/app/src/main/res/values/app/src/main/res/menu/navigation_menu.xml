@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_leave"
+        android:icon="@drawable/ic_leave"
+        android:title="@string/nav_leave" />
+    
+    <item
+        android:id="@+id/nav_delay"
+        android:icon="@drawable/ic_delay"
+        android:title="@string/nav_delay" />
+    
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/nav_exit" />
+    
+    <item
+        android:id="@+id/nav_reports"
+        android:icon="@drawable/ic_reports"
+        android:title="@string/nav_reports" />
+    
+    <item
+        android:id="@+id/nav_employees"
+        android:icon="@drawable/ic_employees"
+        android:title="@string/nav_employees" />
+</menu>
