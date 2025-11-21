@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary_gold">#D4AF37</color>
+    <color name="primary_gold_light">#F5E8B0</color>
+    <color name="primary_gold_dark">#B8941F</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="surface_light">#F8F8F8</color>
+    <color name="text_dark">#333333</color>
+    <color name="text_light">#666666</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="border_light">#E0E0E0</color>
+</resources>
