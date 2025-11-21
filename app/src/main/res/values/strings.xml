@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">سیستم حضور و غیاب گالری طلا</string>
+    <string name="navigation_drawer_open">باز کردن منو</string>
+    <string name="navigation_drawer_close">بستن منو</string>
+    <string name="nav_leave">ثبت مرخصی</string>
+    <string name="nav_delay">ثبت تاخیر</string>
+    <string name="nav_exit">ثبت خروج زودهنگام</string>
+    <string name="nav_reports">گزارش عملکرد</string>
+    <string name="nav_employees">مدیریت پرسنل</string>
+    <string name="title_leave">ثبت مرخصی</string>
+    <string name="title_delay">ثبت تاخیر</string>
+    <string name="title_exit">ثبت خروج زودهنگام</string>
+    <string name="title_reports">گزارش عملکرد</string>
+    <string name="title_employees">مدیریت پرسنل</string>
+    <string name="hint_select_employee">انتخاب پرسنل</string>
+    <string name="hint_select_shift">انتخاب شیفت</string>
+    <string name="hint_start_date">تاریخ شروع</string>
+    <string name="hint_end_date">تاریخ پایان</string>
+    <string name="btn_submit">ثبت</string>
+    <string name="btn_add_employee">افزودن پرسنل</string>
+    <string name="btn_backup">پشتیبان‌گیری</string>
+    <string name="btn_restore">بازیابی</string>
+</resources>
